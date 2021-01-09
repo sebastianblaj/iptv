@@ -1,0 +1,299 @@
+#EXTM3U8
+#EXTINF:0 ,■■■ KKS-free ■■■
+http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
+#EXTINF:0 ,■■■ last update 20/09/2020 ■■■
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/247.m3u8/Level(3670016)?start=LIVE&end=END
+##########################################################
+#EXTINF:0 ,⚽️DIGISPORT 1 HD
+http://84.54.148.38:8080/digisport1/index.m3u8
+# =========================== 
+#EXTINF:0 ,⚽️DIGISPORT 1 RO (udp)
+http://85.217.192.228:4080/udp/239.239.39.14:30000
+#EXTINF:0 ,⚽️DIGISPORT 2 RO (udp)
+http://85.217.192.228:4080/udp/239.239.39.20:30000 
+# =========================== 
+#EXTINF:0 ,⚽️EUROSPORT 1 (rds)
+http://82.76.40.76/digiedge2/eurosportehq.stream/index.m3u8?is=31&src=app&t=00000000000000000000000000000000
+#EXTINF:0 ,⚽️EUROSPORT 2 (rds)    
+http://82.76.40.76/digiedge2/eurosport2ehq.stream/index.m3u8?is=32&src=app&t=00000000000000000000000000000000
+
+########################################################## 
+#EXTINF:0 ,TVR 1	
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+# =========
+#EXTINF:0 ,TVR 2 SD
+http://89.38.8.130:39411
+#EXTINF:0 ,TVR 2
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+# =========
+#EXTINF:0 ,TVR 3
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+#EXTINF:0 ,TVR MOLDOVA
+http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
+#EXTINF:0 ,TVR INTERNATIONAL
+http://89.136.209.33:1935/liveorigin/TVRI.stream/chunklist.m3u8
+# ========================================== 
+#EXTINF:0 ,PRO TV
+https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
+#EXTINF:0 ,PRO X  
+https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
+#EXTINF:0 ,PRO CINEMA
+https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
+#EXTINF:0 ,PRO 2 
+https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
+#EXTINF:0 ,PRO GOLD 
+https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
+# =========== 
+#EXTINF:0 ,PROTV INTERNATIONAL
+http://78.109.108.62:2001/protv
+#EXTINF:-1,PRO TV Int
+http://77.109.171.233:8000/play/a01s
+# =========== 
+#EXTINF:0 ,PROTV HD
+http://89.38.8.131:39532
+#EXTINF:0 ,PROTV (udp)
+http://85.217.192.228:4080/udp/239.239.39.21:30000
+# =========== 
+#EXTINF:0 ,PROTV CHISINAU
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:-1,PRO TV Chisinau
+http://89.37.104.9/ProTV/mpegts
+# ========================================== 
+
+
+########################################################## 
+#EXTINF:-1,DIGI.24
+http://77.109.171.233:8000/play/a0dn
+#EXTINF:0 ,B1
+http://stream.adunity.com/b1/b1_640-.m3u8
+# ============
+#EXTINF:0 ,REALITATEA
+https://live.realitatea.net/livertmp/plus/playlist.m3u8
+#EXTINF:0 ,REALITATEA PLUS  
+http://78.109.108.62:6012/realitatea
+# ============
+#EXTINF:0 ,PRO TV NEWS 
+http://vid.hls.protv.ro/protvnews/protvnews_high/index.m3u8?1
+#EXTINF:-1,ProTV News
+http://stream1.protv.ro/news/stream:1.stream/playlist.m3u8
+# ============
+#EXTINF:-1,ALEPH NEWS 
+http://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/chunklist_b3098304.m3u8
+#EXTINF:-1,RO CHANNEL
+http://whoptv.on-the-web.tv:8081/diretta/direttats/playlist.m3u8
+#EXTINF:-1,Profit TV
+http://stream1.profit.ro:1935/profit/livestream/chunklist.m3u8
+#EXTINF:-1,CANAL 33
+http://46.20.136.59:1935/live3/_definst_/canal33/playlist.m3u8
+# ============
+#EXTINF:-1,Adevarul Live 
+https://1047.cdn.easyhost.com/origin02.easyhost.com/adevarul-live-11102018-1315-8_5bbf222cdf52022f756717a4.isml/adevarul-live-11102018-1315-8_5bbf222cdf52022f756717a4.m3u8?st=E2g3_3BVEY9hAfsrPXYhhg&e=1539344337
+# ============
+#EXTINF:0 ,B1 (rds)   
+http://edge76.rcs-rds.ro/digiedge2/b1tvehq.stream/index.m3u8?is=29&src=app&t=00000000000000000000000000000000
+#EXTINF:0 ,ROMANIA TV (rds)   
+http://82.76.40.76/digiedge2/romaniatvehq.stream/index.m3u8?is=27&src=app&t=00000000000000000000000000000000
+#EXTINF:0 ,REALITATEA PLUS (rds)
+http://edge76.rcs-rds.ro/digiedge2/realitateatvehq.stream/index.m3u8?is=26&src=app&t=00000000000000000000000000000000
+
+##########################################################
+#EXTINF:0 ,🎬ANTENA PLAY Cook and Play
+https://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
+#EXTINF:0 ,🎬ANTENA PLAY Monden
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
+#EXTINF:0 ,🎬ANTENA PLAY COMEDY
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_w899209015_b1000000.m3u8
+# ===================
+#EXTINF:0 ,🎬PRO CINEMA
+https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
+#EXTINF:0 ,🎬PRO 2 
+https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
+#EXTINF:0 ,🎬PRO GOLD 
+https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
+# ===================
+#EXTINF:-1 ,🎬AXN HD (rds)   
+http://edge76.rcs-rds.ro/digiedge2/axnehd.stream/index.m3u8?is=44&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1 ,🎬AXN (rds)  
+http://edge76.rcs-rds.ro/digiedge2/axnehq.stream/index.m3u8?is=44&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1 ,🎬AXN Black (rds)    
+http://edge76.rcs-rds.ro/digiedge2/axnblackehq.stream/index.m3u8?is=45&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1 ,🎬AXN Spin (rds)     
+http://edge76.rcs-rds.ro/digiedge2/axnspinehq.stream/index.m3u8?is=57&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1 ,🎬AXN White (rds)     
+http://edge76.rcs-rds.ro/digiedge2/axnwhiteehq.stream/chunklist_w608025685.m3u8?is=46&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1 ,🎬Tv 1000 (rds)  
+http://edge76.rcs-rds.ro/digiedge2/tv1000ehq.stream/index.m3u8?is=43&src=app&t=00000000000000000000000000000000
+# ===================
+#EXTINF:-1 ,🎬Bollywood TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 ,🎬Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+# =======================
+#EXTINF:0 ,🎬AXN BLACK (HU/RO)
+http://193.33.39.108:8111/11003
+#EXTINF:0 ,🎬AXN WHITE (HU/RO)
+http://193.33.39.108:8111/11002
+#EXTINF:0 ,🎬HBO 2 (HU/RO) 
+http://193.33.39.108:8107/30705
+#EXTINF:0 ,🎬CINEMAX (HU/RO) 
+http://193.33.39.108:8107/30709
+#EXTINF:0 ,🎬CINEMAX 2 (HU/RO) 
+http://193.33.39.108:8115/30914
+#EXTINF:0 ,🎬FILMBOX (HU/RO)
+http://193.33.39.108:8101/1011
+#EXTINF:0 ,🎬FILMBOX FAMILY (HU/RO) 
+http://193.33.39.108:8102/30201
+#EXTINF:0 ,🎬FILMBOX PLUS (HU/RO) 
+http://193.33.39.108:8102/30217
+
+##########################################################
+#EXTINF:-1 ,▲Digi Animal World HD (rds)  
+http://edge76.rcs-rds.ro/digiedge2/digianimalworldehd.stream/index.m3u8?is=16&src=app&t=00000000000000000000000000000000
+#EXTINF:-1 ,▲Digi Life HD (rds)   
+http://edge76.rcs-rds.ro/digiedge2/digilifeehd.stream/index.m3u8?is=6&src=app&t=00000000000000000000000000000000
+#EXTINF:-1 ,▲Digi World HD (rds) 
+http://edge76.rcs-rds.ro/digiedge2/digiworldehd.stream/index.m3u8?is=5&src=app&t=00000000000000000000000000000000
+#EXTINF:-1 ,▲DISCOVERY (rds) 
+http://82.76.40.76/digiedge2/discoveryehq.stream/index.m3u8?is=71&src=app&t=00000000000000000000000000000000
+#EXTINF:-1 ,▲History HD (rds)  
+http://edge76.rcs-rds.ro/digiedge2/historychannelehd.stream/index.m3u8?is=20&src=app&t=00000000000000000000000000000000
+#EXTINF:-1 ,▲Travel Channel HD (rds)  
+http://edge76.rcs-rds.ro/digiedge2/travelchannelehd.stream/index.m3u8?is=21&src=app&t=00000000000000000000000000000000
+#EXTINF:-1 ,▲TLC (rds)  
+http://82.76.40.76/digiedge2/tlcehq.stream/index.m3u8?is=72&src=app&t=00000000000000000000000000000000
+#EXTINF:-1 ,▲E (rds)  
+http://82.76.40.76/digiedge2/eentertainmentehq.stream/index.m3u8?is=76&src=app&t=00000000000000000000000000000000
+#EXTINF:-1 ,▲National Geographic HD (rds)  
+http://edge76.rcs-rds.ro/digiedge2/nationalgeographicehd.stream/index.m3u8?is=19&src=app&t=00000000000000000000000000000000
+#EXTINF:-1 ,▲Nat Geo Wild HD (rds) 
+http://edge76.rcs-rds.ro/digiedge2/nationalgeographicwildehd.stream/index.m3u8?is=33&src=app&t=00000000000000000000000000000000
+#EXTINF:-1 ,▲VIASAT HISTORY (rds) 
+http://82.76.40.76/digiedge2/viasathistoryehq.stream/index.m3u8?is=41&src=app&t=00000000000000000000000000000000
+#EXTINF:-1 ,▲VIASAT EXPLORER (rds) 
+http://edge76.rcs-rds.ro/digiedge2/viasatexplorerehq.stream/index.m3u8?is=40&src=app&t=00000000000000000000000000000000
+#EXTINF:-1 ,▲VIASAT NATURE (rds)  
+http://edge76.rcs-rds.ro/digiedge2/viasatnatureehq.stream/index.m3u8?is=42&src=app&t=00000000000000000000000000000000
+#EXTINF:-1 ,▲BBC Earth (rds)  
+http://edge76.rcs-rds.ro/digiedge2/bbcearthehq.stream/index.m3u8?is=67&src=app&t=00000000000000000000000000000000
+#EXTINF:-1 ,▲CBS REALITY (rds)  
+http://82.76.40.76/digiedge2/cbsrealityehq.stream/index.m3u8?is=65&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1 ,▲Tv Paprika (rds)  
+http://edge76.rcs-rds.ro/digiedge2/tvpaprikaehq.stream/index.m3u8?is=39&src=app&t=00000000000000000000000000000000
+#EXTINF:-1 ,▲TRAVEL MIX (rds) 
+http://82.76.40.76/digiedge2/travelmixchannelehq.stream/index.m3u8?is=74&src=digi-online.ro&t=00000000000000000000000000000000
+# =============================
+#EXTM3U
+#EXTINF:-1,ACASA
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/e107c7ca255c800.m3u8
+#EXTINF:-1,ANTENA 1
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/d38b087f5478d20.m3u8
+#EXTINF:-1,ANTENA 3
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/eea2f9ac923744e.m3u8
+#EXTINF:-1,ANTENA STAR
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/26d412aa06ef56f.m3u8
+#EXTINF:-1,AXN ROMANIA
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/0ac6308d1fe5a4a.m3u8
+#EXTINF:-1,AXN BLACK
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/b4d25d361d1d84f.m3u8
+#EXTINF:-1,AXN WHITE
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/393934ba80c2c40.m3u8
+#EXTINF:-1,DIGI ANIMAL WORLD
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/8acf907135592b5.m3u8
+#EXTINF:-1,DIGI FILM
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/b7479f81431d320.m3u8
+#EXTINF:-1,DISNEY CHANNEL ROMANIA
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/98c7fc4df4df95e.m3u8
+#EXTINF:-1,DISNEY JR ROMANIA
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/9b85387d7ac12f6.m3u8
+#EXTINF:-1,FILM CAFE
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/743a33f3b2eb454.m3u8
+#EXTINF:-1,FOOD NETWORK
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/4005a361f077f15.m3u8
+#EXTINF:-1,HBO 1
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/ed78d7b3852e007.m3u8
+#EXTINF:-1,HBO 2
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/b2a0d38b7c42f0b.m3u8
+#EXTINF:-1,HBO 3
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/71d3130589690d6.m3u8
+#EXTINF:-1,NAT GEO ROMANIA
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/82bcd9ae3c063d5.m3u8
+#EXTINF:-1,NICKLODEON ROMANIA
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/c64c03c786e3d82.m3u8
+#EXTINF:-1,CARTOON NETWORK ROMANIA
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/1dbefc5b92be0ad.m3u8
+#EXTINF:-1,VIASAT HISTORY
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/d3b65f7bc9bc08e.m3u8
+#EXTINF:-1,VIASAT NATURE
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/28d7d262d9afee0.m3u8
+#EXTINF:-1,HISTORY ROMANIA
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/558d6436705cae7.m3u8
+#EXTINF:-1,NATIONAL TV
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/7e814372e6dc422.m3u8
+#EXTINF:-1,ROMANIA TV
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/7c465c85cfc4c9e.m3u8
+#EXTINF:-1,KISS TV
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/057f936c4c3ce7a.m3u8
+#EXTINF:-1,MUSIC CHANNEL
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/39b4bef377421a9.m3u8
+#EXTINF:-1,PRO TV 
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/3a52ed3f472fbdb.m3u8
+#EXTINF:-1,TVR  1
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/44222d92cefc4bf.m3u8
+#EXTINF:-1,TVR   2
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/1a89952890b07f3.m3u8
+#EXTINF:-1,DIGI 24 
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/42ed92d56a23930.m3u8
+#EXTINF:-1,B1 
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/f19cdd878856e55.m3u8
+#EXTINF:-1,KANAL D 
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/7b570b448ee1711.m3u8
+#EXTINF:-1,Realitatea TV 
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/8d890b3059e988d.m3u8
+#EXTINF:-1,U TV 
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Romania/ee55c63c31faaa4.m3u8
+#EXTINF:-1,RO: Antena 1
+http://127.0.0.1:6878/ace/m/330255f40cdb1bb5b1d299bf317cfd2b5f53ce2b/f528764d624db129b32c21fbca0cb8d6.m3u8
+#EXTINF:0 ,PROTV HD
+http://89.38.8.131:39532
+#EXTINF:0 ,PROTV (udp)
+http://85.217.192.228:4080/udp/239.239.39.21:30000
+#EXTINF:-1,: Antena 1 FHD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/26902?checkedby:hlscat.com
+#EXTINF:-1,RO: Antena 1 HD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/26901?checkedby:hlscat.com
+#EXTINF:-1,RO: Antena 1 SD
+http://kmx.kolpax.de:80/tommy/YPZqsm6adc/26900?checkedby:hlscat.com
